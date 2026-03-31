@@ -2,25 +2,25 @@
 
 A simple Python script that automates mouse clicks using the PyAutoGUI library.
 
-## 📋 Description
+## Description
 
 This script automates repetitive mouse clicking tasks by performing a series of clicks at specified screen coordinates. It's useful for automating GUI interactions, testing applications, or performing repetitive tasks.
 
-## 🚀 Features
+## Features
 
 - Automated mouse clicks at predefined coordinates
 - Configurable delay between clicks
 - Simple and lightweight implementation
 - Easy to modify for different click locations and intervals
 
-## 📦 Prerequisites
+## Prerequisites
 
 Before running this script, make sure you have:
 
 - Python 3.x installed
 - PyAutoGUI library installed
 
-## 🔧 Installation
+## Installation
 
 1. Clone this repository:
 ```bash
